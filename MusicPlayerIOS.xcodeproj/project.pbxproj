@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					032057CE1E8DBB95005BCD1E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 7G2VJ9MYDX;
 						ProvisioningStyle = Automatic;
 					};
 					032057E21E8DBB95005BCD1E = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7G2VJ9MYDX;
 				INFOPLIST_FILE = MusicPlayerIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.BlueStarGames.CoffeeApp.MusicPlayerIOS;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7G2VJ9MYDX;
 				INFOPLIST_FILE = MusicPlayerIOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.BlueStarGames.CoffeeApp.MusicPlayerIOS;
