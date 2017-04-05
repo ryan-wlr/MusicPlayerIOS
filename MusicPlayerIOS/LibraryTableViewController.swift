@@ -36,7 +36,7 @@ class LibraryTableViewController: UITableViewController {
             cell.coverImageView.image = UIImage(named: "\(coverImage).jpg")
             
         }
-        
+        cell.genreLabel.text = library[indexPath.row]["genre"]        
         return cell
     }
     
